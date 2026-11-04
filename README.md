@@ -231,6 +231,6 @@ Future improvements may include:
 
 **Umesh Chandra**
 
-Data Science | Machine Learning | MLOps
+Data Scientist | Machine Learning | MLOps
 
 GitHub: Umesh1234AI-afk
